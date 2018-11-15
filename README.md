@@ -1,1 +1,3 @@
-[![video](https://i.imgur.com/T5XZsDu.jpg)](https://www.youtube.com/watch?v=rjaqwuboo1o "How do men and women perceive tech's gender gap?")
+This project was ideated, designed, and produced for UChicago's Data Visualization 239 class.
+
+A video walkthrough of this project is available on the Wiki page.
